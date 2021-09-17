@@ -1,0 +1,4 @@
+Course: CS3141
+Section: 1, 12:00 - 1:00
+Name: Jacob Leczycki
+Email: jsleczyc@mtu.edu
