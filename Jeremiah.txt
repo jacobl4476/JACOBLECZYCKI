@@ -1,0 +1,4 @@
+Course: CS3141 
+Section: R02
+Name: Jeremiah Kollodge
+Email: jtkollod@mtu.edu
